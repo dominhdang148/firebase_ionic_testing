@@ -1,0 +1,7 @@
+{
+  "name": "firebase_demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
